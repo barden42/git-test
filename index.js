@@ -36,3 +36,7 @@ for (let i = 0; i < product.length; i++) {
 function display(obj) {
     return obj.name + ": " + obj.price
 }
+
+function display2(obj) {
+    return obj.name + ": " + obj.price
+}
