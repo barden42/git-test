@@ -40,3 +40,8 @@ function display(obj) {
 function display2(obj) {
     return obj.name + ": " + obj.price
 }
+
+function plouf() {
+    console.log("Conflit mon pote !");
+}
+
